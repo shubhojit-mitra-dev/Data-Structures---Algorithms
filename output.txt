@@ -1,1 +1,8 @@
-hello
+Sum of each row:
+Row 1: 6
+Row 2: 15
+Row 3: 24
+Sum of each column:
+Column 1: 12
+Column 2: 15
+Column 3: 18
